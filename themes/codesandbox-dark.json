@@ -19,7 +19,7 @@
     "button.hoverBackground": "#dcff50",
     "textLink.foreground": "#e5e5e5",
     "button.secondaryForeground": "#c5c5c5",
-    "button.secondaryBacground": "#2a2a2a",
+    "button.secondaryBackground": "#2a2a2a",
     "button.secondaryHoverBackground": "#373737",
 
     "activityBar.foreground": "#dedede",
@@ -28,7 +28,7 @@
     "activityBarBadge.foreground": "#000",
     "activityBarBadge.background": "#edffa5",
     "activityBar.border": "#000",
-    "actibityBar.activeBackground": "#151515",
+    "activityBar.activeBackground": "#151515",
 
     "sideBar.background": "#000",
     "sideBar.foreground": "#999",
@@ -36,7 +36,7 @@
     "sideBarSectionHeader.border": "#00000000",
     "sideBarSectionHeader.foreground": "#e5e5e5",
     "sideBarTitle.foreground": "#e5e5e5",
-    "sideBar.border": "#00000000",
+    "sideBar.border": "#2d2e36",
     "list.dropBackground": "#151515",
     "list.focusForeground": "#808080",
     "list.focusBackground": "#e5e5e51a",
@@ -52,7 +52,7 @@
     "statusBarItem.remoteBackground": "#cef144",
     "statusBarItem.remoteForeground": "#151515",
 
-    "tab.activeBackground": "#151515",
+    "tab.activeBackground": "#000000",
     "tab.activeForeground": "#e5e5e5",
     "tab.inactiveBackground": "#000",
     "tab.inactiveForeground": "#999",
@@ -73,11 +73,11 @@
     "menu.selectionBorder": "#00000000",
     "menu.border": "#00000000",
 
-    "editor.background": "#151515",
+    "editor.background": "#000000",
     "editorLineNumber.foreground": "#858585",
     "editorLineNumber.activeForeground": "#c6c6c6",
 
-    "breadcrumb.background": "#151515",
+    "breadcrumb.background": "#000000",
     "breadcrumb.foreground": "#999",
     "breadcrumb.focusForeground": "#e5e5e5",
     "editorGroupHeader.border": "#00000000",
