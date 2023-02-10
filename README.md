@@ -15,13 +15,10 @@ Below you can find a few recommendations for your `settings.json` to match the C
 
 ```json
 {
-  "editor.fontSize": 14,
-  "editor.fontFamily": "'Fira Code'",
-  "editor.fontLigatures": true
+  "editor.fontSize": 17,
+  "editor.fontFamily": "'Source Code Pro'",
 }
 ```
-
-> You can download the [Fira Code font][fira-code-install] from GitHub.
 
 ## CodeSandbox Projects Extension
 
@@ -31,6 +28,3 @@ Did you know you can get the entire power of CodeSandbox right in your editor, n
 
 Found an issue? Would like to propose an improvement? Please follow our [Contribution guidelines](CONTRIBUTING.md) to make those changes happen. Thank you!
 
-[theme-install]: https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-projects-theme
-[fira-code-install]: https://github.com/tonsky/FiraCode
-[projects-install]: https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-projects
