@@ -15,7 +15,7 @@ Below you can find a few recommendations for your `settings.json` to match the C
 
 ```json
 {
-  "editor.fontSize": 17,
+  "editor.fontSize": 14,
   "editor.fontFamily": "'Source Code Pro'",
 }
 ```

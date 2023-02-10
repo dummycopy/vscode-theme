@@ -22,7 +22,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "CodeSandbox-Black",
+        "label": "CodeSandbox Copy",
         "uiTheme": "vs-dark",
         "path": "./themes/codesandbox-dark.json"
       }
